@@ -1,19 +1,64 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of famous movie quotes with this quiz.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "Who said, 'I'll be back'?",
+      "answers": ["Terminator", "Rambo", "Rocky"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "Who said, 'Here's looking at you, kid'?",
+      "answers": ["Rick", "Sam", "Victor"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "Who said, 'May the Force be with you'?",
+      "answers": ["Obi-Wan", "Han", "Luke"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Who said, 'I am your father'?",
+      "answers": ["Vader", "Yoda", "Leia"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who said, 'You talking to me?'",
+      "answers": ["Travis", "Rocky", "Terminator"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who said, 'Houston, we have a problem'?",
+      "answers": ["Lovell", "Armstrong", "Glenn"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who said, 'I'll have what she's having'?",
+      "answers": ["Sally", "Harry", "Customer"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "Who said, 'To infinity and beyond'?",
+      "answers": ["Buzz", "Woody", "Andy"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who said, 'Just keep swimming'?",
+      "answers": ["Dory", "Nemo", "Marlin"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who said, 'Why so serious?'",
+      "answers": ["Joker", "Batman", "Harvey"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who said, 'Elementary, my dear Watson'?",
+      "answers": ["Holmes", "Poirot", "Marlowe"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who said, 'I see dead people'?",
+      "answers": ["Cole", "Bruce", "David"],
       "correctAnswerIndex": 0
     }
   ]
